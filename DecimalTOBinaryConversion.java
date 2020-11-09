@@ -2,7 +2,7 @@
 Decimal to Binary Conversion: only using integers, no Strings
 */
 import java.util.Scanner;
-public class SchuchmanHW4 
+public class BinaryConversion 
 {
 	public static void main(String[] args)
 	{
