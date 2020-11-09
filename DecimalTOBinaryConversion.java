@@ -1,4 +1,6 @@
-//Avigayil Schuchman
+/*
+Decimal to Binary Conversion: only using integers, no Strings
+*/
 import java.util.Scanner;
 public class SchuchmanHW4 
 {
